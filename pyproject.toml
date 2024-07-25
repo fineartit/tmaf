@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "tmaf"
+version = "2024-rc1"
+description = "The Minimalist Architecture Framework"
+authors = ["Advisor"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+sphinx = "^7.4.6"
+sphinx-autobuild = "^2024.4.16"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,5 @@
+* [Gaphor SysML/UML Modeling](https://docs.gaphor.org/en/latest/)
+* [Python-Markdown](https://python-markdown.github.io/)
+* [Pymdown-Extensions](https://facelessuser.github.io/pymdown-extensions/)
+* [markdown-it-py](https://markdown-it-py.readthedocs.io/en/latest/)
+* [OMG Standards Development Organization](https://www.omg.org/index.htm)

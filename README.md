@@ -1,1 +1,2 @@
-# tmaf
+# TMAF
+The Minimalist Architecture Framework
